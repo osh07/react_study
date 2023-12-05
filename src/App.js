@@ -1,8 +1,8 @@
-import {useState} from "react";
+//import {useState} from "react";
 import "./App.css"
-import Board from "./components/Board";
+//import Board from "./components/Board";
 
-/*import "./App.css"
+import "./App.css"
 import Background from "./components/Background";
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
     </div>
   );
 }
-*/
+/*
 function App(){
 
   const [history, setHistory] = useState([{sqaures: Array(9).fill(null)}])
@@ -79,4 +79,5 @@ function App(){
     </div>
   );
 }
+*/
 export default App;
