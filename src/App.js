@@ -3,6 +3,8 @@ import "./App.css"
 //import Board from "./components/Board";
 
 import "./App.css"
+import './components/common.css';
+
 import Background from "./components/Background";
 
 function App() {
